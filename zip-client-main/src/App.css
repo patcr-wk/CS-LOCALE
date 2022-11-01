@@ -1,0 +1,40 @@
+body, p, .btn-primary{
+    font-family: Inter, sans-serif; 
+}
+.display-4 {
+    font-size: 1.5em;
+    }
+    .btn-primary {
+        background-color: white;
+        border-color:lightgray;
+        color:#6c5ce7;
+        box-shadow:0 0 15px 4px rgba(0,0,0,0.05) !important
+    }
+    .btn-primary:active{
+        background-color: #6c5ce7 ;
+        border-color:#6c5ce7 ;
+        box-shadow:0 0 15px 4px rgba(0,0,0,0.06) !important;
+        color:white 
+    }
+    .btn-primary:hover{
+        background-color: #6c5ce7 ;
+        border-color:#6c5ce7 ;
+        box-shadow:0 0 15px 4px rgba(0,0,0,0.06) !important;
+        color:white 
+    }
+    p{
+        text-align: center;
+        font-size: .85rem;
+        line-height: 1.5;
+        color: #647696;
+
+    }
+    .alert{
+        text-align: center;
+        font-size: .85rem;
+        line-height: 1.5;
+        color: rgb(235, 86, 70);
+    }
+    i{
+        color: #647696;
+    }
